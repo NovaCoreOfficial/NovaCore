@@ -1,6 +1,10 @@
 # NovaCore
-💡 Designed to simplify game systems like currency, inventory, XP, stats, and more
+🧠 Really Simple to use, and fast to learn.
 
-🧩 Fully modular: drop-in ModuleScripts
+🧩 Drag and Drop Modules
 
-🛠️ Easy to integrate via Init scripts
+🚀 Simple & Easy Implementation
+
+🔌 Plug-In Compatible
+
+📜 Advanced & Readable API
